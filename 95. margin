@@ -1,0 +1,27 @@
+<html>							
+	<head>
+		<title>Hello CSS</title>
+		<style>
+			
+			div {
+					background-color: pink;
+					margin: 10px 20px 30px 40px;
+			}
+		</style>
+	</head>
+	<body>
+		<div id="maindiv">
+		<p>This is body Para This is body Para This is body Para
+		This is body Para This is body Para This is body Para This is body Para 
+		This is body Para This is body Para This is body ParaThis is body Para
+		</p>
+		</div>
+		<p>This is body Para This is body Para This is body Para
+		This is body Para This is body Para This is body Para This is body Para 
+		This is body Para This is body Para This is body ParaThis is body Para
+		</p>
+		<h1> This is heading</h1>
+		
+		
+	</body>
+</html>

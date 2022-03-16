@@ -1,0 +1,15 @@
+<html>
+	<head>
+		<title>Hello CSS</title>
+		<style>
+			div[id="data"]{ color: red;}
+		</style>
+	</head>
+	<body>
+			
+		<div id="data"> This is 1st div </div>
+		<div id="dev"> This is 2nd div </div>
+
+
+	</body>
+</html>
